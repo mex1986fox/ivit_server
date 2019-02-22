@@ -1,0 +1,24 @@
+{
+  "rooms": [
+    {
+      "name": "Комната 1",
+      "fon": "C:\\Users\\ELECTRONIC-CES\\Desktop\\roms_img\\img.bmp"
+    },
+    {
+      "name": "Комната 2",
+      "fon": "C:\\Users\\ELECTRONIC-CES\\Desktop\\roms_img\\img.bmp"
+    },
+    {
+      "name": "Комната 3",
+      "fon": "C:\\Users\\ELECTRONIC-CES\\Desktop\\roms_img\\img.bmp"
+    },
+    {
+      "name": "Комната 4",
+      "fon": "C:\\Users\\ELECTRONIC-CES\\Desktop\\roms_img\\img.bmp"
+    }
+  ],
+  "ivits": [
+
+  ]
+
+}
